@@ -19,7 +19,7 @@
     "tape": "^4.6.3"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/bs58",
+    "url": "https://github.com/takunee/bs58",
     "type": "git"
   },
   "files": [
